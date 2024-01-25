@@ -1,0 +1,9 @@
+{
+  "Name": "Hungarian",
+  "Alias": "hu",
+  "IsoCode": "hu",
+  "Udi": "umb://language/hu",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.LanguageArtifact",
+  "__version": "13.0.3"
+}

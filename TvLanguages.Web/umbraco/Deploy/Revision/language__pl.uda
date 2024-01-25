@@ -1,0 +1,9 @@
+{
+  "Name": "Polish",
+  "Alias": "pl",
+  "IsoCode": "pl",
+  "Udi": "umb://language/pl",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.LanguageArtifact",
+  "__version": "13.0.3"
+}

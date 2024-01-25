@@ -1,0 +1,9 @@
+{
+  "Name": "Finnish",
+  "Alias": "fi",
+  "IsoCode": "fi",
+  "Udi": "umb://language/fi",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.LanguageArtifact",
+  "__version": "13.0.3"
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "Hindi",
+  "Alias": "hi",
+  "IsoCode": "hi",
+  "Udi": "umb://language/hi",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.LanguageArtifact",
+  "__version": "13.0.3"
+}

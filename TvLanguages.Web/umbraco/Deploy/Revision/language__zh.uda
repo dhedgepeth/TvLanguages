@@ -1,0 +1,9 @@
+{
+  "Name": "Chinese",
+  "Alias": "zh",
+  "IsoCode": "zh",
+  "Udi": "umb://language/zh",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.LanguageArtifact",
+  "__version": "13.0.3"
+}

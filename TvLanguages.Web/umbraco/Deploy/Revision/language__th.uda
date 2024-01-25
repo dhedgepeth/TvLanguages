@@ -1,0 +1,9 @@
+{
+  "Name": "Thai",
+  "Alias": "th",
+  "IsoCode": "th",
+  "Udi": "umb://language/th",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.LanguageArtifact",
+  "__version": "13.0.3"
+}

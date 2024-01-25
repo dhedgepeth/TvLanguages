@@ -1,0 +1,9 @@
+{
+  "Name": "Romanian",
+  "Alias": "ro",
+  "IsoCode": "ro",
+  "Udi": "umb://language/ro",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.LanguageArtifact",
+  "__version": "13.0.3"
+}

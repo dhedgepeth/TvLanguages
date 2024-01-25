@@ -1,11 +1,21 @@
+using Hangfire;
+using TvLanguages.Web;
+
 WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
-builder.CreateUmbracoBuilder()
+var umbracoBuilder = builder.CreateUmbracoBuilder()
     .AddBackOffice()
     .AddWebsite()
-    .AddDeliveryApi()
-    .AddComposers()
-    .Build();
+.AddDeliveryApi()
+.AddComposers();
+
+if (builder.Environment.IsProduction())
+{
+    RecurringJob.AddOrUpdate<TvMazeUtility>("MoveOneTvShowFromTvMazeToUmbraco", x => x.MoveTvShowsFromTvMazeToUmbraco(), Cron.Daily);
+
+}
+
+umbracoBuilder.Build();
 
 WebApplication app = builder.Build();
 

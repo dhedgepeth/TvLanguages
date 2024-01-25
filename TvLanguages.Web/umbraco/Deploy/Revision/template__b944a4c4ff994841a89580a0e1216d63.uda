@@ -1,0 +1,14 @@
+{
+  "Name": "TV Show Library",
+  "Alias": "TVShowLibrary",
+  "File": "umb://template-file/TVShowLibrary.cshtml",
+  "Udi": "umb://template/b944a4c4ff994841a89580a0e1216d63",
+  "Dependencies": [
+    {
+      "Udi": "umb://template-file/TVShowLibrary.cshtml",
+      "Ordering": true
+    }
+  ],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.TemplateArtifact",
+  "__version": "13.0.3"
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "Dutch",
+  "Alias": "nl",
+  "IsoCode": "nl",
+  "Udi": "umb://language/nl",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.LanguageArtifact",
+  "__version": "13.0.3"
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "Norwegian",
+  "Alias": "no",
+  "IsoCode": "no",
+  "Udi": "umb://language/no",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.LanguageArtifact",
+  "__version": "13.0.3"
+}

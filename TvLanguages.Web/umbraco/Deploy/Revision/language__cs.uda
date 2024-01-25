@@ -1,0 +1,9 @@
+{
+  "Name": "Czech",
+  "Alias": "cs",
+  "IsoCode": "cs",
+  "Udi": "umb://language/cs",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.LanguageArtifact",
+  "__version": "13.0.3"
+}

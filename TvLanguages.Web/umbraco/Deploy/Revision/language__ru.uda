@@ -1,0 +1,9 @@
+{
+  "Name": "Russian",
+  "Alias": "ru",
+  "IsoCode": "ru",
+  "Udi": "umb://language/ru",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.LanguageArtifact",
+  "__version": "13.0.3"
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "French",
+  "Alias": "fr",
+  "IsoCode": "fr",
+  "Udi": "umb://language/fr",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.LanguageArtifact",
+  "__version": "13.0.3"
+}
