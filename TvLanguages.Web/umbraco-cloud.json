@@ -6,12 +6,6 @@
       "Id": "c584d449-f39e-4e24-bf21-71b945b06dbb",
       "Workspaces": [
         {
-          "Id": "7bb56d6c-4cfe-4473-a41a-ac11d3b89966",
-          "Name": "Development",
-          "Type": "development",
-          "Url": "https://dev-tv-languages.useast01.umbraco.io"
-        },
-        {
           "Id": "1e04c8e4-1ac9-41e9-9740-6a96b8722327",
           "Name": "Live",
           "Type": "live",
