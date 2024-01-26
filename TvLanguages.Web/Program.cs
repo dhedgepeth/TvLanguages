@@ -11,7 +11,7 @@ var umbracoBuilder = builder.CreateUmbracoBuilder()
 
 if (builder.Environment.IsProduction())
 {
-    RecurringJob.AddOrUpdate<TvMazeUtility>("MoveOneTvShowFromTvMazeToUmbraco", x => x.MoveTvShowsFromTvMazeToUmbraco(), Cron.Daily);
+    RecurringJob.AddOrUpdate<TvMazeUtility>("MoveOneTvShowFromTvMazeToUmbraco", x => x.MoveTvShowsFromTvMazeToUmbraco(), Cron.Monthly);
 
 }
 
